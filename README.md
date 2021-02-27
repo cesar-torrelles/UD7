@@ -4,12 +4,12 @@
 
 | Developer | Rama | Rol | Fecha Incorporación | Proyecto | Versión |
 | --- | :---:  | :---:  | :---:  | :---: | :---:  |
-| Cesar Torrelles | Dev 2 | FullStack Developer | 01/02/2021 | UD5  | 1.0  | 
+| Cesar Torrelles | Dev 2 | FullStack Developer | 01/02/2021 | UD7  | 1.0  | 
 
 
 ### 1. Descripción
 
-13 ejercicios  relacionados con:
+4 ejercicios  relacionados con:
 Arraylist y Hashtables - Java Basics - CC21_REUS_JavaAngular_2
 
 ###  2. Link a un demo con el proyecto desplegado:
