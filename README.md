@@ -10,8 +10,7 @@
 ### 1. Descripción
 
 4 ejercicios  relacionados con:
-Arraylist y Hashtables - Java Basics
-CC21_REUS_JavaAngular_2
+Arraylist y Hashtables - Java Basics - CC21_REUS_JavaAngular_2
 
 ###  2. Link a un demo con el proyecto desplegado:
 
