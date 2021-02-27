@@ -4,7 +4,6 @@
 
 | Developer | Rama | Rol | Fecha Incorporación | Proyecto | Versión |
 | --- | :---:  | :---:  | :---:  | :---: | :---:  |
-
 | Cesar Torrelles | Dev 2 | FullStack Developer | 01/02/2021 | UD7  | 1.0  | 
 
 
